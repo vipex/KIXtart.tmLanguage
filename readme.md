@@ -10,4 +10,4 @@ Original author: [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NE
 
 ## Screenshots
 
-![Monokai](http://github.com/SublimeText/KIXtart/raw/master/screenshots/monokai.png)
+![Monokai](https://raw.githubusercontent.com/vipex/KIXtart.tmLanguage/master/screenshots/monokai.png)
