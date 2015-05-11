@@ -1,0 +1,14 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>select</tabTrigger>
+    <scope>source.kix</scope>
+    <description>Select case Condition</description>
+    <content><![CDATA[
+Select
+case $1
+	$0
+Case 1
+
+EndIf
+]]></content>
+</snippet>

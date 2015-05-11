@@ -1,0 +1,11 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.kix</scope>
+    <description>If Condition</description>
+    <content><![CDATA[
+If ${1:True}
+	$0
+EndIf
+]]></content>
+</snippet>
