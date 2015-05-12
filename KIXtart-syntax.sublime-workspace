@@ -1,0 +1,916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"Fied",
+				"FIELD_TO"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"post",
+				"posting"
+			],
+			[
+				"name",
+				"name=〔attribute〕"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"heigh",
+				"height: 〔property〕"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"par",
+				"parse	$.parseJSON()"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"sam",
+				"samaccountname"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ldap_par",
+				"ldap_parse_result"
+			],
+			[
+				"ad",
+				"adldap"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cha",
+				"change  (function)"
+			],
+			[
+				"onke",
+				"onkeyup	Attr"
+			],
+			[
+				"id",
+				"id	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-row-group"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text-tra",
+				"text-transform:   (property)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bordecol",
+				"border-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"LI",
+				"li"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"core",
+				"core-toolbar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"css",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"PHPSimpleRefactor: extract current lines to method"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"Package Control: insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control s",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"preference",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"preferen",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packate",
+				"Package Control: List Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"indent",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			]
+		],
+		"width": 506.0
+	},
+	"console":
+	{
+		"height": 411.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/_Projects/Kixtart/Sublime/KIXtart"
+	],
+	"file_history":
+	[
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/test.kix",
+		"/D/_Projects/Kixtart/Sublime/install.mdown",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/demo.kix",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/excel.kix",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/demo2.kix",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/enumkeys.kix",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/fly.kix",
+		"/D/_Scripts/java26_check.cmd",
+		"/D/_Projects/Kixtart/KiX2010.464/Samples/macros.vbs",
+		"/C/Program Files/Sublime Text 3/KIXtart.sublime-project",
+		"/D/_Projects/_PLUGINS/KIXtart/KIXtart.tmLanguage",
+		"/D/_Projects/_PLUGINS/KIXtart/Comments.tmPreferences",
+		"/D/_Projects/_PLUGINS/KIXtart/tests/__init__.py",
+		"/D/_Projects/_PLUGINS/KIXtart/tests/test.py",
+		"/D/_Projects/_PLUGINS/KIXtart/VBScript.tmLanguage",
+		"/D/_Projects/_PLUGINS/KIXtart/function.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/foreach.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/for.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/do-while-loop.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/do-until-loop.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/do-loop-while.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/do-loop-until.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/class.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/sub.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/if.sublime-snippet",
+		"/D/_Projects/_PLUGINS/KIXtart/readme.md",
+		"/D/_Projects/_PLUGINS/KIXtart/VBScript.sublime-build",
+		"/D/_Projects/_PLUGINS/KIXtart/.travis.yml",
+		"/D/_Projects/_PLUGINS/KIXtart/.gitignore",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension_dev/bc/bc.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/DPCalendar-Free_5_0_2/com_dpcalendar/admin/helpers/html/datetime.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/DPCalendar-Free_5_0_2/com_dpcalendar/admin/libraries/caldav/vendor/sabre/vobject/lib/Sabre/VObject/Property.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/DPCalendar-Free_5_0_2/com_dpcalendar/admin/views/event/view.html.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/DPCalendar-Free_5_0_2/com_dpcalendar/admin/views/extcalendar/view.html.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/DPCalendar-Free_5_0_2/com_dpcalendar/admin/views/location/view.html.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/mod_tv_contacts.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/tmpl/default.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/helper.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/language/it-IT.mod_tv_contacts.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/language/en-GB.mod_tv_contacts.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/mod_tv_contacts.xml",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/css/style.css",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/js/script.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/tmpl/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/language/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/js/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/images/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/assets/css/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/language/en-GB.mod_sp_quickcontact.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/language/it-IT.mod_sp_quickcontact.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/mod_sp_quickcontact.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_contacts/mod_sp_quickcontact.xml",
+		"/D/Programmi/APK/it.immobiliare.android/src/it/immobiliare/android/service/SearchService.java",
+		"/D/Programmi/APK/it.immobiliare.android/src/it/immobiliare/android/fragment/ProfileFragment.java",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/tv.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/tvbase64.min.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/tvmakers.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/tvstyles.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/default.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/js/tvbase64.min.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/js/default.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/helper.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/formfield/markers.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/mod_tv_gmaps.xml",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/formfield/styles.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/formfield/button.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/formfield/asset.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/css/chosen.css",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/css/tv.css",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/chosen.jquery.min.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/jquery.min.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/mod_tv_gmaps.php",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/en-GB.mod_tv_gmaps.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/it-IT.mod_tv_gmaps.ini",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/colorpicker/colorpicker.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/tv30.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/admin/js/bt.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/js/btbase64.min.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/js/index.html",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/js/infobox.js",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/css/style.css",
+		"/D/users/06630aa/Dropbox/_TECH_VALUE/_website/joomla/extension/mod_tv_gmaps/tmpl/index.html",
+		"/D/users/06630aa/Desktop/vboxmanagerv410a/vboxctrl/vboxctrl-lib.pl",
+		"/d/users/06630aa/Desktop/mailer/form.html",
+		"/d/users/06630aa/Desktop/mailer/send.php",
+		"/D/_CLIENTI/TECH-VALUE/iviewApplet/page_APPLET.html",
+		"/D/users/06630aa/Desktop/editor/admin.html",
+		"/D/users/06630aa/Desktop/editor/js/tinymce/skins/admin.html",
+		"/W/html/dbApi/LoadQAG.php",
+		"/D/tEmP/pippo.html",
+		"/W/html/UCdash/index.php",
+		"/W/html/UCdash/src/classes/adLDAPGroups.php",
+		"/W/html/UCdash/src/classes/adLDAPUtils.php",
+		"/W/html/UCdash/src/adLDAP.php",
+		"/W/html/UCdash/src/classes/adLDAPUsers.php",
+		"/W/html/UCdash/src/collections/adLDAPComputerCollection.php",
+		"/W/html/UCdash/src/collections/adLDAPContactCollection.php",
+		"/W/html/UCdash/src/collections/adLDAPCollection.php",
+		"/W/html/UCdash/src/collections/adLDAPUserCollection.php",
+		"/W/html/UCdash/src/collections/adLDAPGroupCollection.php",
+		"/W/html/UCdash/examples/groupCollection.php",
+		"/W/html/fo/_doc/QAG_Model_definition.js",
+		"/D/_CLIENTI/ANSALDO/QAG/003262.json",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/W/html/syncEngine/adri.html",
+		"/W/html/syncEngine/js/syncEngine.js",
+		"/D/users/06630aa/Desktop/test/index.html",
+		"/D/_CLIENTI/ANSALDO/_release/fo_20140822_milestone1/index.html",
+		"/W/html/fieldop.app/app/styles/parts.css",
+		"/W/html/fieldop.app/app/styles/global.css",
+		"/W/html/fieldop.app/app/js/parts.js",
+		"/W/html/fieldop.app/app/parts.html",
+		"/W/html/fieldop.app/app/js/main.js",
+		"/W/html/fieldop.app/app/styles/serials.css",
+		"/W/html/fieldop.app/app/styles/components/_utils.scss",
+		"/W/html/fieldop.app/app/styles/components/_global.scss",
+		"/W/html/fieldop.app/app/styles/components/_components/_table.scss",
+		"/W/html/fieldop.app/gulpfile.js",
+		"/W/html/fieldop.app/README.md",
+		"/W/html/fieldop.app/package.json",
+		"/W/html/fieldop.app/.jshintrc",
+		"/d/users/06630aa/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/d/users/06630aa/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/W/html/fieldop.app/app/serials.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\_Projects\\_PLUGINS\\KIXtart",
+			"D:\\users\\06630aa\\Dropbox\\_TECH_VALUE\\_website\\joomla\\extension\\DPCalendar-Free_5_0_2",
+			"D:\\users\\06630aa\\Dropbox\\_TECH_VALUE\\_website\\joomla\\extension\\mod_tv_contacts",
+			"D:\\users\\06630aa\\Dropbox\\_TECH_VALUE\\_website\\joomla\\extension\\pkg_docstation_0.4.1",
+			"D:\\users\\06630aa\\Dropbox\\_TECH_VALUE\\_website\\joomla\\extension\\mod_tv_contacts",
+			"D:\\Programmi\\APK\\it.immobiliare.android\\src\\it\\immobiliare\\android",
+			"D:\\users\\06630aa\\Dropbox\\_TECH_VALUE\\_website\\joomla\\extension\\mod_tv_gmaps",
+			"W:\\html\\fieldop.app\\app\\styles\\components",
+			"W:\\html\\fieldop.app\\app\\styles",
+			"W:\\html\\fieldop.app\\app\\styles\\components",
+			"W:\\html\\fieldop.app\\app",
+			"W:\\html\\fieldop.app",
+			"W:\\html\\fieldop.app\\app\\styles\\components",
+			"W:\\html\\fieldop.app\\app\\styles",
+			"D:\\_Projects\\ANSALDO\\fieldOP.app\\styles\\components",
+			"D:\\_Projects\\ANSALDO\\fieldOP.app\\styles",
+			"main.css",
+			"assembly",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uuid",
+			"FBA964F9-EA31-44D1-A5FD-AE8AB3FF8954",
+			".asp",
+			"VBScript",
+			".vbs",
+			"VBScript",
+			"bc",
+			"p",
+			"h6",
+			"span",
+			">\n",
+			"phone",
+			"mb_",
+			"mb_s",
+			"mb_substr(",
+			"render(",
+			"render",
+			"mb_substr",
+			"par_recipients",
+			"par_recipients_arr",
+			"RECIPIENT_LIST",
+			"RECIPIENT",
+			"RECIPIENT_LIST",
+			"a",
+			"par_recipients",
+			"params",
+			".docstation-file img.docstation-icon",
+			"img.docstation-icon",
+			"col-md-9",
+			"'",
+			" '",
+			"par_success_msg",
+			"$input",
+			"$inputs",
+			"$message",
+			"            $",
+			"$message = 'Contact name: ' . $field_name;",
+			"control",
+			"col-sm-9",
+			"col-sm-8",
+			"col-sm-2 ",
+			"field-label",
+			"section",
+			"wide",
+			"-wide",
+			"note",
+			"markoff",
+			"mktField",
+			"lpeRegForm",
+			"legend",
+			"$message",
+			"$email",
+			"$name",
+			"$mail",
+			"        $",
+			"emailList",
+			"get",
+			"formcaptcha",
+			"NOTICE_SUCCESS_DESC",
+			"NOTICE_SUCCESS",
+			"NOTICE_FAIL",
+			"FAILED_NOTICE",
+			"SUCCESS_NOTICE",
+			"FAILED_TEXT",
+			"EMAIL_WARN",
+			"WRONG_CAPTCHA",
+			"ERR_MSG",
+			"FAILED_TEXT",
+			"WAIT_TEXT",
+			"NAME",
+			"send_msg",
+			"msg_text",
+			"subject_text",
+			"email_text",
+			"name_text",
+			"ADMIN_EMAIL",
+			"heading",
+			"question1",
+			"company_Name",
+			"mail_",
+			"');",
+			");\n",
+			"Amministrazione",
+			"$recap",
+			"$recaptcha",
+			"                    $",
+			"recaptcha",
+			"quickcontact",
+			"helper",
+			"success",
+			"captcha",
+			"sp-quickcontact",
+			"sp_",
+			"tacts-",
+			"sp_qc_",
+			"sp_quickcontact",
+			"/*\n# mod_sp_quickcontact - Ajax based quick contact Module by JoomShaper.com\n# ------------------------------------------------------------------------\n# Author    JoomShaper http://www.joomshaper.com\n# Copyright (C) 2010 - 2014 JoomShaper.com. All Rights Reserved.\n# License - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL\n# Websites: http://www.joomshaper.com\n*/",
+			"mod_sp_quickcontact",
+			"http",
+			"$params",
+			"params",
+			"tv",
+			"BT",
+			"TV",
+			"BT",
+			"createMap",
+			"markers",
+			"getMarker",
+			"createMarker",
+			"BT",
+			"btnupdatemar",
+			"onchange",
+			"save",
+			"tick.png",
+			"JVERSION",
+			"version_compare(JVERSION",
+			"tv.js",
+			"tv30.js",
+			"tv.js",
+			"version_compare(JVERSION",
+			"tick.png",
+			"config",
+			"tv_description",
+			"true",
+			"false",
+			"/**",
+			"bt",
+			"bt_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".kix",
+			"KIXtart",
+			"NOTICE_SUCCESS_DESC",
+			"NOTICE_FAIL_DESC",
+			"NOTICE_FAIL",
+			"NOTICE_SUCCESS",
+			"RECIPIENT_LIST",
+			"mail-",
+			"tv-contacts-",
+			"tv_contacts",
+			"TV",
+			"tv_",
+			"TV_GMAP",
+			"TV",
+			"tv_",
+			"tv-",
+			"#tv",
+			"mod_tv_gmaps",
+			"MOD_TV_GMAP",
+			"tv",
+			"TV",
+			"MOD_TV_GMAP",
+			"MOD_TV_GMAPS",
+			"$name",
+			"assembly",
+			"js"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "KIXtart-syntax.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
