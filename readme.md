@@ -1,5 +1,7 @@
 # KIXtart package for Sublime Text
 
+<a href="https://packagecontrol.io/packages/KIXtart"><img src="https://packagecontrol.herokuapp.com/downloads/KIXtart.svg"></a>
+
 This KIXtart package for [Sublime Text](http://www.sublimetext.com/) adds:
 - syntax highlighting
 - snippets
