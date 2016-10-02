@@ -1,6 +1,7 @@
 # KIXtart package for Sublime Text
 
-<a href="https://packagecontrol.io/packages/KIXtart"><img src="https://packagecontrol.herokuapp.com/downloads/KIXtart.svg"></a>
+[![Build Status (Travis)](https://travis-ci.org/vipex/KIXtart.tmLanguage.svg?branch=master)](https://travis-ci.org/vipex/KIXtart.tmLanguage)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/KIXtart.svg)](https://packagecontrol.io/packages/KIXtart)
 
 This KIXtart package for [Sublime Text](http://www.sublimetext.com/) adds:
 - syntax highlighting
